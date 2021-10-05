@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daudakhtarnaveed98
-- 👀 I’m interested in Deep Learning, Block Chain and IOT
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Computer Vision
+- 👀 I’m interested in Machine Learning, Deep Learning, Blockchain and IOT.
+- 🌱 I’m currently learning NLP.
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning.
 - 📫 How to reach me: daudakhtarnaveed@gmail.com
 
 <!---
